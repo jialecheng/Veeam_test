@@ -5,7 +5,7 @@ The 'result' photo is a screenshot of my execution result, and the 'test_veeam' 
 
 A summary of the steps in this code:
 
-1.Parse command-line arguments to get source folder path, replica folder path, sync interval, and log file path.
+1.Parse command-line arguments to get source folder path, replica folder path, sync interval, and log file path.\\
 2.Enter an infinite loop to continuously perform the synchronization process at specified intervals.
 3.Inside the loop, the sync_folders function is called to:
   -Retrieve lists of files in the source and replica folders.
