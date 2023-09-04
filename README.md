@@ -1,6 +1,6 @@
 # Veeam_test
 
-The 'result' photo is a screenshot of my execution result, and the 'test_veeam' folder contains the two folders I used as well as the output log.
+The 'result.png' photo is a screenshot of my execution result, source is the source folder, and backup is the backup folder, and log.text is the output log.
 
 
 A summary of the steps in this code:
