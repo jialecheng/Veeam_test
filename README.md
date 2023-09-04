@@ -1,6 +1,6 @@
 # Veeam_test
 
-The 'result.png' photo is a screenshot of my execution result, source is the source folder, and backup is the backup folder, and log.text is the output log.
+The 'result.png' photo is a screenshot of my execution result, source is the source folder, and backup is the backup folder, and log.text is the output log. sync_folders.py is my code.
 
 
 A summary of the steps in this code:
